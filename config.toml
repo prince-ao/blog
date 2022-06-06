@@ -1,4 +1,4 @@
-baseURL = "https://629e194c7ea535486069cb68--graceful-baklava-44865d.netlify.app/"
+baseURL = "graceful-baklava-44865d.netlify.app"
 title = "Prince's Blog"
 paginate = 5
 theme = "PaperMod"
@@ -35,17 +35,17 @@ hideSummary = false
 showtoc = false
 tocopen = false
 
-  [params.assets]
-  favicon = "<link / abs url>"
-  favicon16x16 = "<link / abs url>"
-  favicon32x32 = "<link / abs url>"
-  apple_touch_icon = "<link / abs url>"
-  safari_pinned_tab = "<link / abs url>"
+  # [params.assets]
+  # favicon = "<link / abs url>"
+  # favicon16x16 = "<link / abs url>"
+  # favicon32x32 = "<link / abs url>"
+  # apple_touch_icon = "<link / abs url>"
+  # safari_pinned_tab = "<link / abs url>"
 
   [params.label]
   text = "Prince's Blog"
   # icon = "/apple-touch-icon.png"
-  iconHeight = 35
+  # iconHeight = 35
 
   [params.profileMode]
   enabled = false
