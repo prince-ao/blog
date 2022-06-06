@@ -99,12 +99,6 @@ tocopen = false
   keys = [ "title", "permalink", "summary", "content" ]
 
 [[menu.main]]
-identifier = "archive"
-name = "Archive"
-url = "archive"
-weight = 20
-
-[[menu.main]]
 identifier = "tags"
 name = "Tags"
 url = "tags"
