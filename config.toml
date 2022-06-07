@@ -1,4 +1,4 @@
-baseURL = "graceful-baklava-44865d.netlify.app"
+baseURL = "https://www.addoserver.xyz/"
 title = "Prince's Blog"
 paginate = 5
 theme = "PaperMod"
