@@ -21,7 +21,3 @@ I will be writing about whatever is of interest to me at the moment.
 I feel like technical people tend to shy away from topics that don't have to do with their field, and I do too, but life is bigger then technology and everything
 is interconnected, so it's impossible to talk about technology without talking about everything else. I will talk heavily about projects I'm working on, or
 cool hacks I found, but I will also incorporate books I've read, interesting life lessons, etc.
-
-### Who am I
-
-I am a human. A sometimes rational creature that is able to manipulate the world and create new things.
