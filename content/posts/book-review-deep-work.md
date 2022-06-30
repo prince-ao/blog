@@ -7,6 +7,8 @@ description: A review of Carl Newport's Deep Work
 ShowBreadCrumbs: false
 ---
 
+![Deep Work Cover](https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1447957962l/25744928._SY475_.jpg)
+
 ## Quick Summary
 
 The book revolves around the concept of "Deep Work", which Newport defines as "Professional activies performed in a state of distraction-free concentration that push
