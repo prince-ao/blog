@@ -27,6 +27,6 @@ you pick up one of those books, and Deep Work did well at being that kind of boo
 
 ## Should You Read It
 
-This book is very short < 200 pages, so it wouldn't hurt to read it, the question is whether you will gain anything. If you're a person that is constantly in a state of
-distraction I think this book is a good start to rethinking your habits, but if you're a focus/motivated person, then this book is pointless, just do some research on
+This book is very short, < 200 pages, so it wouldn't hurt to read it, the question is whether you will gain anything. If you're a person that is constantly in a state of
+distraction I think this book is a good start to rethinking your habits, but if you're a focused/motivated person, then this book is pointless, just do some research on
 how to increase productivity.
